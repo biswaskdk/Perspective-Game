@@ -1,4 +1,4 @@
-Perspective-Game
+# Perspective-Game
 
 ![Screenshot 2024-03-31 011437](https://github.com/biswaskdk/Perspective-Game/assets/144484530/0b2926b3-0a0e-492e-b72d-fbc32804fa5e)
 
